@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analysis- step by step
+Exploratory Data Analysis- a step by step process of analysing datasets
